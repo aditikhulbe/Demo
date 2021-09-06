@@ -1,0 +1,4 @@
+2021-08-25 16:53:17,007  INFO [main] BaseTest:35 - user entered email successfully
+2021-08-25 16:53:17,355  INFO [main] BaseTest:41 - user entered password successfully
+2021-08-25 16:53:17,555  INFO [main] BaseTest:51 - Title of login page successfully verified
+2021-08-25 16:53:17,555  INFO [main] BaseTest:52 - VALID LOGIN testCase PASSED
